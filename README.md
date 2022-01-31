@@ -12,8 +12,8 @@ The updated Horiseon web page satisfies the following requirements of the assign
 
 ## Screenshot
 
+A screenshot of the page can be found at https://carissa-k.github.io/02-Homework/assets/images/screenshot.jpg
 
-
-## Link
+## Link to Completed Assignment
 
 https://carissa-k.github.io/02-Homework/
